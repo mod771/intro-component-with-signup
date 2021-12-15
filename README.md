@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/mod771/intro-component-with-signup)
-- Live Site URL: (https://mod771.github.io/intro-component-with-signup/)
+- Solution URL: (https://github.com/paolas771/intro-component-with-signup)
+- Live Site URL: (https://paolas771.github.io/intro-component-with-signup/)
 
 ## My process
 
